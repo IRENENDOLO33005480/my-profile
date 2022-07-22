@@ -1,0 +1,60 @@
+*{
+    box-sizing: border-box;
+}
+body {
+    background-image: url(./bg.png);
+    background-size: cover;
+    background-position: center;
+    margin: 0;
+    padding: 32px;
+    min-height: 100vh;
+}
+p{
+ color: #29415e;
+ font-size: 32px ;   
+width: 700px;
+}
+h1{
+    background-color:white;
+    display: inline-block;
+    font-size: 5rem;
+    font-weight: 200;
+    padding :1.5rem;
+    font-style:oblique;
+    }
+    a{
+        position: fixed;
+        top: 10rem;
+        right: 5rem;
+        font-size: 2rem;
+        text-decoration: none;
+        color: blueviolet;
+ }
+ ul{
+     position: fixed;
+     right: 5rem;
+     top:30rem;
+ }
+ span{
+     background-color:white;
+    display: inline-block;
+    font-size: 5rem;
+    font-weight: 200;
+    padding :1.5rem;font-style:oblique;
+    font-size: italic;
+    right: ;
+
+     
+ }
+ 
+
+    
+
+    
+
+    
+
+    
+    
+
+

@@ -1,0 +1,44 @@
+
+body {
+    background-image: url(./R.jfif);
+    background-size: cover;
+    background-position: center;
+    margin: 0;
+    padding: 20px;
+    min-height: 100vh;
+}
+p{
+    color: blue;
+    font-size:30Px ;
+    width: 400px;
+}
+h1{
+  background-color: antiquewhite;
+  display: inline-block;
+  font-size:5rem ;
+  font-weight: 20;
+  padding:1.0rem ;
+  font-style: oblique;
+
+
+}
+a{
+  position: fixed;
+  top:1rem ;
+  right: 1rem;
+  font-size: 2rem;
+  text-decoration: none;
+  color: aquamarine;
+
+
+}
+ul{
+  position: fixed;
+  right: 5rem;
+  top: 10rem;
+
+
+}span{
+    background-color: antiquewhite;
+
+}
